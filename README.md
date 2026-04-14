@@ -1,23 +1,14 @@
-# Business Case Documentation
+# Business Cases
 
-## Power BI Dashboard Analytics
+## Business Case 1
+- Description: [Description of Business Case 1]
 
-This document outlines the business case based on insights derived from Power BI dashboard analytics. The analysis includes key aspects such as sales categories, product performance, customer analysis, and monthly sales trends.
+## Business Case 2
+- Description: [Description of Business Case 2]
 
-### Sales Categories
-- Overview of different sales categories.
-- Performance metrics for each category.
+## Business Case 3
+- Description: Power BI is used to analyze data and share insights. It provides a wide range of visualizations, making it easier to understand complex data.
+- Details: This business case involves the use of Power BI to enhance decision-making through data visualization.
 
-### Product Performance
-- Detailed analysis of product performance.
-- Top-performing products and underperformers.
-
-### Customer Analysis
-- Insights into customer demographics.
-- Buying patterns and behaviors.
-
-### Monthly Sales Trends
-- Trends in sales over the past months.
-- Seasonal variations and marketing impacts.
-
-This documentation aims to assist in strategic planning and decision-making based on analytical insights from the dashboard.
+## Conclusion
+These business cases illustrate the value brought by various tools and methodologies in a business context.
