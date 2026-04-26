@@ -1,4 +1,4 @@
-# Business Case 02
+# Business Case 01
 
 This business case provides a comprehensive analysis of sales performance, product inventory management, and customer purchasing behaviors. The insights are derived from detailed dashboards and reports covering:
 
@@ -17,7 +17,7 @@ This business case provides a comprehensive analysis of sales performance, produ
 This analysis enables strategic decision-making for inventory allocation, pricing strategies, and targeted customer engagement initiatives.
 
 
-# Business Case 03
+# Business Case 02
 
 This business case outlines the insights derived from the Power BI dashboard, focusing on customer order trends, restaurant performance, revenue analysis, rider performance, and customer engagement[...]  
 
